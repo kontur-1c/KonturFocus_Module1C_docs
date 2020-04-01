@@ -1,12 +1,11 @@
 site_name: Модуль Контур.Фокус для 1С
 nav:
-  - Домашняя: index.md
-  
-theme: 
+  - О модуле: index.md
+theme:
   name: material
   language: ru
-  logo: images/logo.png
-  favicon: images/icon.png
+  logo: assets/images/logo.png
+  favicon: assets/images/icon.png
   palette:
-    primary: #D9F1E3
-    accent: #3C7252
+    primary: Green
+    accent: indigo
