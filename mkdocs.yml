@@ -5,8 +5,8 @@ nav:
 theme: 
   name: material
   language: ru
-  logo: 'images/logo.png'
-  favicon: 'images/icon.png'
+  logo: images/logo.png
+  favicon: images/icon.png
   palette:
-    primary: '#D9F1E3'
-	accent: '#3C7252'
+    primary: #D9F1E3
+    accent: #3C7252
