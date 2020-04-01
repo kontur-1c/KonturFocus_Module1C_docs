@@ -1,6 +1,8 @@
 site_name: Модуль Контур.Фокус для 1С
 nav:
-  - О модуле: index.md
+  - 'О модуле':
+    - Описание: index.md
+    - Конфигурации: conf.md
 theme:
   name: material
   language: ru
