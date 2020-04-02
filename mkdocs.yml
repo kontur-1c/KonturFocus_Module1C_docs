@@ -8,7 +8,7 @@ nav:
       - Настройка: Auto/Возможнсть запретить выполение операций по стоп-факторам.md
       - Пример: Auto/Блокировка операций.md
 theme:
-  name: material
+  name: mkdocs
   language: ru
   logo: assets/images/logo.png
   favicon: assets/images/icon.png
