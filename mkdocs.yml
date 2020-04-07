@@ -6,13 +6,13 @@ nav:
   - Возможности:
     - Блокировка операций: 
       - Настройка: Auto/Возможнсть запретить выполение операций по стоп-факторам.md
-      - Исключения: Auto/Блокировка операций.md
-      - Пример: Auto/Настройка исключений блокировки.md
+      - Исключения: Auto/Настройка исключений блокировки.md
+      - Пример: Auto/Блокировка операций.md
 theme:
   name: material
   language: ru
   logo: assets/images/logo.png
-  favicon: assets/images/icon.ico
+  favicon: assets/images/Icon.ico
   palette:
     primary: Green
     accent: indigo
