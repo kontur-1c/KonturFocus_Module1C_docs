@@ -12,7 +12,7 @@ theme:
   name: material
   language: ru
   logo: assets/images/logo.png
-  favicon: assets/images/icon.png
+  favicon: assets/images/icon.ico
   palette:
     primary: Green
     accent: indigo
